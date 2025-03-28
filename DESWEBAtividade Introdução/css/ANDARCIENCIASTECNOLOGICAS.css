@@ -1,0 +1,100 @@
+
+body {
+    background-color: #8756c0;
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    .backgnd{
+        display: block;
+        background-color: #cb88f8;
+    
+    }
+    .Angela {
+        margin-top: 10px;
+    text-align: center;
+    }
+    
+    .Angela img{
+       border: 20px solid;
+       border-color: #cb88f8;
+        border-radius: 10%;
+    
+    
+    }
+    
+    .backgnd h1{
+        letter-spacing: 3px;
+        position: relative;
+        top: 15px;
+        height: 100px;
+        text-align: center;
+        font-size: 60px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0; 
+    }
+    
+    .invite{
+        text-align: center;
+    
+    
+    }
+    .invite p{
+        letter-spacing: 3px;
+        text-align: center;
+        width: 1600px;
+        font-size: 30px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: auto;
+    }
+
+    .Arquivos{
+        text-align: center;
+    
+    
+    }
+    .Arquivos h1{
+        letter-spacing: 3px;
+        text-align: center;
+        width: 1600px;
+        font-size: 30px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: auto;
+        padding: 0; 
+    }
+
+    ul {
+        letter-spacing: 3px;
+        text-align: center;
+        width: 800px;
+        font-size: 30px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: auto;
+        padding: 0; 
+    }
+
+    .texto p {
+        color : rgb(154, 252, 255);
+
+
+    }
+    
+    .wiki {
+        display: inline-block;
+        bottom: 0;
+        padding-left: 10px;
+        letter-spacing: 3px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .proxpag {
+        float: right;
+        padding-right: 10px;
+        bottom: 0;
+        letter-spacing: 3px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: right;
+    }
+
+    
